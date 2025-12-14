@@ -53,7 +53,7 @@ Do **not** skip phases.
 7. Writing Clean Print Statements  
 8. Comments, Readability, and Why Bad Code Fails  
 
-📌 Stop after Phase 1. Upload and practice before moving ahead.
+📌 Stop after Phase 1. Practice before moving ahead.
 
 ---
 
@@ -138,7 +138,4 @@ Do **not** skip phases.
 
 Make sure Python 3.9+ is installed.
 
-```bash
-python --version
-python code/phase-1-foundations/01_what_is_python/demo.py
 
